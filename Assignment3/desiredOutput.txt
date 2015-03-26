@@ -1,0 +1,31 @@
+Back and forth
+=============
+30/13 has the cf [2; 3, 4]
+[2; 3, 4] is the cf of 30/13
+Print all cfs
+=============
+The CF of -Fraction 125/13- is [9; 1, 1, 1, 1, 2]
+The CF of -Fraction 30/13- is [2; 3, 4]
+The CF of -Fraction 75/33- is [2; 3, 1, 2]
+The CF of -Golden Ratio- is [1; 1, 1, 1, 1, 1, 1, 1, 1, 1 ...]
+The CF of -Square Root 18- is [4; 4, 8, 4, 8, 4, 8, 4, 8, 4 ...]
+The CF of -Square Root 2- is [1; 2, 2, 2, 2, 2, 2, 2, 2, 2 ...]
+The CF of -Square Root 72- is [8; 2, 16, 2, 16, 2, 16, 2, 16, 2 ...]
+The CF of -Square Root 8- is [2; 1, 4, 1, 4, 1, 4, 1, 4, 1 ...]
+
+The first few seeds of Square Root 2
+=============
+(0, 0)(-0.484, 0.29)(0.377, -0.703)(0.0454, 0.976)(-0.624, -0.94)(1.14, 0.544)(-1.38, 0.128)(1.2, -0.882)(-0.621, 1.47)(-0.235, -1.68)
+
+Test MVG for Square Root 2
+=============
+fill blue circle 800,800 801,800
+fill blue circle 610,913 615,913
+fill blue circle 948,524 955,524
+fill blue circle 817,1182 825,1182
+fill blue circle 555,431 565,431
+fill blue circle 1246,1013 1257,1013
+fill blue circle 260,850 272,850
+fill blue circle 1272,453 1285,453
+fill blue circle 556,1376 570,1376
+fill blue circle 707,142 722,142
